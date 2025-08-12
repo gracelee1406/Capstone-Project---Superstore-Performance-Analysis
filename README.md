@@ -6,9 +6,9 @@ This is a data analysis project for an online superstore.  It is organized into 
 ---
 
 ### Performance Overview
-![Screenshot of dashboard] (https://imgur.com/a/9kTxRMN)
+![Screenshot of dashboard](https://i.imgur.com/6Z7uZVE.png)
 
-#### [Link to Dataset] (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+#### [Link to Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 #
 
