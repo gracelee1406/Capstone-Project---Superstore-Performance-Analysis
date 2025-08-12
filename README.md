@@ -6,7 +6,12 @@ This is a data analysis project for an online superstore.  It is organized into 
 ---
 
 ### Performance Overview
-![Screenshot of dashboard](https://i.imgur.com/6Z7uZVE.png)
+![Dashboard Overview](https://i.imgur.com/6Z7uZVE.png)
+![Sales and Profitability](https://i.imgur.com/2BwW6VA.png)
+![Customer Behavior](https://i.imgur.com/TfQ0Usm.png)
+![Product Performance](https://i.imgur.com/2fxeYSA.png)
+![Shipping & Logistics](https://i.imgur.com/BjTSZlu.png)
+![Geographical Performance](https://i.imgur.com/cDXdhBa.png)
 
 #### [Link to Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
