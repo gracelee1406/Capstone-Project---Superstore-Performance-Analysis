@@ -8,7 +8,7 @@ This is a data analysis project for an online superstore.  It is organized into 
 ### Performance Overview
 ![Dashboard Overview](https://i.imgur.com/6Z7uZVE.png)
 ![Sales and Profitability](https://i.imgur.com/2BwW6VA.png)
-![Customer Behavior](https://i.imgur.com/xnJBbAb.png)
+![Customer Behavior](https://i.imgur.com/D44ZCc3.png)
 ![Product Performance](https://i.imgur.com/Ey21RRd.png)
 ![Shipping & Logistics](https://i.imgur.com/BjTSZlu.png)
 ![Geographical Performance](https://i.imgur.com/cDXdhBa.png)
