@@ -39,7 +39,7 @@ The superstore dataset used in this capstone project is obtained from the above-
 
 Sales consistently peak in the fourth quarter of each year, followed by the third, second, and first quarters.  This suggests a strong seasonal pattern, likely driven by holiday spending.
 
-New customers dropped from 595 to 11 (98.15% decrease) decrease between 2014 and 2017.
+New customers dropped from 595 to 11 (98.15% decrease) decrease between 2014 and 2017 which poses a significant threat to long-term growth.
 
 Although the top customer, Sean, generated the most sales, analysis reveals that these sales resulted in a total loss.
 
