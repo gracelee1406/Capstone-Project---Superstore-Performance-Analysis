@@ -13,13 +13,13 @@ This is a data analysis project for an online superstore.  It is organized into 
 ![Shipping & Logistics](https://i.imgur.com/BjTSZlu.png)
 ![Geographical Performance](https://i.imgur.com/cDXdhBa.png)
 
-#### [Link to Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
 #
 
 ### Description of Dataset
 
 The superstore dataset used in this capstone project is obtained from the above-mentioned link.  It consists of 9,994 rows with order dates from Jan 2014 to Dec 2017.  Dataset containing information related to Sales, Profits and other interesting facts of a Superstore giant including how sales are concentrated in key regions and cities across the United States.
+
+#### [Link to Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Files
 - Sample - Superstore.csv
